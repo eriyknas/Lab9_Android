@@ -100,11 +100,11 @@ fun NavigationPanel(
         verticalAlignment = Alignment.CenterVertically
     ) {
         Button(onClick = onPrevious) {
-            Text("← Предыдущая")
+            Text("Предыдущая")
         }
         Text("${currentIndex + 1}/$totalCount")
         Button(onClick = onNext) {
-            Text("Следующая →")
+            Text("Следующая")
         }
     }
 }
