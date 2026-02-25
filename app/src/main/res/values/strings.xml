@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movie_Catalog</string>
+    <string name="item1">Titanic</string>
+    <string name="item2">Avatar</string>
+    <string name="item3">Crew</string>
+    <string name="item4">Pirates of the Caribbean</string>
+    <string name="item5">Thor</string>
+    <string name="item6">Venom</string>
+    <string name="item7">Underworld</string>
+    <string name="item8">Divergent</string>
+    <string name="item9">The Fast and the Furious</string>
+    <string name="item10">Oblivion</string>
+
+    <string name="item1_description">История основана на реальных событиях, когда лайнер «Титаник» столкнулся с айсбергом и затонул, унеся тысячи жизней.</string>
+    <string name="item2_description">Действие разворачивается на Пандоре, где человечество ведёт добычу ценного минерала анобтаниум, что приводит к конфликту с коренным разумным видом — на’ви.</string>
+    <string name="item3_description">Пилоты спасают людей в экстремальной ситуации.</string>
+    <string name="item4_description">Фильм, объединяющий в себе большое количество мифов, легенд и реальных историй о морском пиратстве.</string>
+    <string name="item5_description">Тора отправляют в ссылку на Землю, лишают сил и заставляют жить среди обычных людей в качестве наказания.</string>
+    <string name="item6_description">На Землю попадают симбиоты — инопланетные организмы, способные наделить носителя сверхчеловеческими силами или убить.</string>
+    <string name="item7_description">Столетиями вампиры и оборотни ведут войну, невидимую человеческому взору.</string>
+    <string name="item8_description">В Чикаго будущего общество разделено на пять фракций, где каждый житель, достигший 16 лет, должен пройти тест, чтобы определить, к какой фракции он принадлежит.</string>
+    <string name="item9_description">Брайан О’Коннор и его друзья освобождают Доминика Торетто, которого везут в тюрьму, и теперь сами становятся вне закона.</string>
+    <string name="item10_description">Земля опустошена после войны с инопланетными захватчиками, названными «Мусорщиками». Человечество победило ценой разрушения планеты.</string>
+</resources>
